@@ -1,0 +1,3 @@
+//Funciones
+#include<stdio.h>
+
